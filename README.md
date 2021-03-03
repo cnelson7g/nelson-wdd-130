@@ -1,4 +1,4 @@
-# nelson-wdd-130
-This is my Final Project WDD130 at BYUI
+# WDD 130 Final Project
+Owner: Connor Nelson
 
-Wow Something New!
+Semester: Winter 2021
